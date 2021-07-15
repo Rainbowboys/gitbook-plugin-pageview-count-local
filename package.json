@@ -1,0 +1,23 @@
+{
+  "name": "gitbook-plugin-pageview-count-local",
+  "version": "1.0.2",
+  "description": "gitbook page view count plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "gitbook": ">=3.1.1"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "pageview"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Rainbowboys/gitbook-plugin-pageview-count-local.git"
+  },
+  "author": "xiaozhang@qq.com",
+  "license": "MIT"
+}
